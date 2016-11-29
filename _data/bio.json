@@ -24,24 +24,14 @@
         "network": "linkedin",
         "username": "grantliu808",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "Renewable Energy",
+      "name": "Electrical Engineering",
       "keywords": [
-        "Arduino",
+        "Power Quality",
         "TI MSP430"
       ]
     },
